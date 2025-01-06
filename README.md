@@ -1,16 +1,16 @@
 # Hi there, I'm Artur Telo! 👋  
 
+![Welcome GIF](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
+
 Welcome to my GitHub profile! I'm passionate about technology, coding, and building innovative solutions that make a difference. Here's what you'll find here:  
 
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working at **Float Health**  
+- 🔭 I’m currently working at **Float Health** as a Full Stack Developer
 - 💻 I developed a **backend website (Laravel)** for a **Flutter app**  
 - 🌱 I’m learning **new web and mobile technologies**  
-- 💬 Ask me about **Laravel, Flutter, and backend development**  
-- 🎯 My goal is to **enhance healthcare solutions with technology**  
-- ⚡ Fun fact: **I have a background in music and piano learning**  
+- 💬 Ask me about **Laravel, Flutter, and backend development**    
 
 ---
 
