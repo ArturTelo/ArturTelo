@@ -1,11 +1,13 @@
 # Hi there, I'm Artur Telo! 👋  
 
-![Welcome GIF](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Welcome GIF" width="200"/>
+</div>
 
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working at **Float Health** as a Full Stack Developer
+- 🔭 I’m currently working at **Float Health** as a Full Stack Developer  
 - 💻 I developed a **backend website (Laravel)** for a **Flutter app**  
 - 🌱 I’m learning **new web and mobile technologies**  
 
