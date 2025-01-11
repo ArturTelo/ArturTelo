@@ -28,15 +28,12 @@
 ## 📜 Licenses & Certifications  
 
 1. **Build Responsive Real-World Websites with HTML and CSS** (Udemy, Jun 2023)  
-   - Credential ID: UC-7d276870-9be6-4ca8-a342-ac7713a7474c  
    - Skills: Cascading Style Sheets (CSS), HTML  
 
 2. **SQLite - Database** (Noble Work Foundation, Dec 2022)  
-   - Credential ID: UC-0f2c06d3-4ac4-4fle-a84e-d94eaa17d615  
    - Skills: Databases, SQLite  
 
-3. **The Mac Terminal** (Udemy, Oct 2022)  
-   - Credential ID: UC-efdc9a3e-fe54-4eb3-986c-57b15c2ef231  
+3. **The Mac Terminal** (Udemy, Oct 2022)
    - Skills: Mac Terminal  
 
 4. **Data Protection/Proteção de Dados** (Joaquim Chaves Saúde, Aug 2019)  
