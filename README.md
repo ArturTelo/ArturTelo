@@ -26,19 +26,21 @@
 ---
 
 ## 📜 Licenses & Certifications  
+1. **Complete Course in Cyber Security (Information Security)** (Udemy, Jan 2025)
+   - Skills: Cyber Security
 
-1. **Build Responsive Real-World Websites with HTML and CSS** (Udemy, Jun 2023)  
+2. **Build Responsive Real-World Websites with HTML and CSS** (Udemy, Jun 2023)  
    - Skills: Cascading Style Sheets (CSS), HTML  
 
-2. **SQLite - Database** (Noble Work Foundation, Dec 2022)  
+3. **SQLite - Database** (Noble Work Foundation, Dec 2022)  
    - Skills: Databases, SQLite  
 
-3. **The Mac Terminal** (Udemy, Oct 2022)
+4. **The Mac Terminal** (Udemy, Oct 2022)
    - Skills: Mac Terminal  
 
-4. **Data Protection/Proteção de Dados** (Joaquim Chaves Saúde, Aug 2019)  
+5. **Data Protection/Proteção de Dados** (Joaquim Chaves Saúde, Aug 2019)  
 
-5. **FCE (Cambridge First Certificate in English)** (Cambridge University Press Careers, Jun 2014)  
+6. **FCE (Cambridge First Certificate in English)** (Cambridge University Press Careers, Jun 2014)  
 
 ---
 
