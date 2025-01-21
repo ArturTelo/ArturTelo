@@ -27,24 +27,24 @@
 
 ## 📜 Licenses & Certifications
 
-1. **Complete Course in Cyber Security (Information Security)** (Udemy, Jan 2025)
-   - Skills: Cyber Security
+1. **Complete Course in Cyber Security (Information Security)** (Udemy, Jan 2025)  
+   - _Skills_: Cyber Security  
 
-2. **The Complete Prolog Programming Course: From Zero to Expert!** (Udemy, Jan 2025)
-   - Skills: Prolog
+2. **The Complete Prolog Programming Course: From Zero to Expert!** (Udemy, Jan 2025)  
+   - _Skills_: Prolog  
 
-4. **Build Responsive Real-World Websites with HTML and CSS** (Udemy, Jun 2023)  
-   - Skills: Cascading Style Sheets (CSS), HTML  
+3. **Build Responsive Real-World Websites with HTML and CSS** (Udemy, Jun 2023)  
+   - _Skills_: Cascading Style Sheets (CSS), HTML  
 
-5. **SQLite - Database** (Noble Work Foundation, Dec 2022)  
-   - Skills: Databases, SQLite  
+4. **SQLite - Database** (Noble Work Foundation, Dec 2022)  
+   - _Skills_: Databases, SQLite  
 
-6. **The Mac Terminal** (Udemy, Oct 2022)
-   - Skills: Mac Terminal  
+5. **The Mac Terminal** (Udemy, Oct 2022)  
+   - _Skills_: Mac Terminal  
 
-7. **Data Protection/Proteção de Dados** (Joaquim Chaves Saúde, Aug 2019)  
+6. **Data Protection/Proteção de Dados** (Joaquim Chaves Saúde, Aug 2019)  
 
-8. **FCE (Cambridge First Certificate in English)** (Cambridge University Press Careers, Jun 2014)  
+7. **FCE (Cambridge First Certificate in English)** (Cambridge University Press Careers, Jun 2014)
 
 ---
 
