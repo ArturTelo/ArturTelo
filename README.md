@@ -1,7 +1,9 @@
-<div align = "center">
-<img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h2 align = "center" >Hi, I'm Artur Telo </h2>
-  <img src="https://komarev.com/ghpvc/?username=ArturTelo&color=orange&style=for-the-badge"></img>
+<div align="center">
+  <h2 align="center">
+    Hi, I'm Artur Telo
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
+  </h2>
+  <img src="https://komarev.com/ghpvc/?username=ArturTelo&color=orange&style=for-the-badge" alt="profile views">
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Welcome GIF" align="right" width="350"/>
