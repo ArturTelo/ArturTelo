@@ -6,8 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Welcome GIF" align="right" width="350"/>
 
----
-
 ## 🚀 About Me  
 - 🔭 I’m currently working at **Float Health** as a Full Stack Developer  
 - 💻 I developed a **backend website (Laravel)** for a **Flutter app**  
