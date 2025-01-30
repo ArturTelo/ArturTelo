@@ -17,7 +17,7 @@
 
 ---
 
-## 🌟 Experience  
+## [🌟 Experience](https://arturtelo.github.io)
 
 ### **Float Group**
 - **Full Stack Developer (Full-time)**  
@@ -31,7 +31,7 @@
 
 ---
 
-## 📜 Licenses & Certifications
+## [📜 Licenses & Certifications](https://arturtelo.github.io)
 
 1. **Complete Course in Cyber Security (Information Security)** (Udemy, Jan 2025)  
    - _Skills_: Cyber Security  
@@ -54,7 +54,7 @@
 
 ---
 
-## 🏆 Achievements  
+## [🏆 Achievements](https://arturtelo.github.io)
 
 - 🥇 Certifications in multiple fields, including web development, databases, and data protection  
 - 🚀 Developed backend solutions for **Float Health**  
