@@ -20,14 +20,21 @@
 ## [🌟 Experience](https://arturtelo.github.io)
 
 ### **Float Group**
+
 - **Full Stack Developer (Full-time)**  
-  - **Duration**: Sep 2024 – Present (5 months)  
-  - **Skills**: Full-Stack Development, Web Technologies, Flutter, Laravel  
+  - **Duration**: Sep 2024 – Present (6 months)  
+  - **Skills**: Full-Stack Development, Web Technologies, Flutter, Laravel
+
+- **Gestão de Equipa de DEV (Full-time)**  
+  - **Duration**: Nov 2024 – Present (4 months)  
+  - **Description**: Managing a development team using project management tools like ClickUp
+
 - **Frontend Development Intern (Internship)**  
   - **Duration**: Jul 2024 – Aug 2024 (2 months)  
   - **Location**: Lisbon, Portugal  
   - **Description**: Internship focused on frontend development with WordPress and Laravel  
-  - **Skills**: Laravel, WordPress  
+  - **Skills**: Laravel, WordPress
+
 
 ---
 
