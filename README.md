@@ -34,30 +34,32 @@
   - **Location**: Lisbon, Portugal  
   - **Description**: Internship focused on frontend development with WordPress and Laravel  
   - **Skills**: Laravel, WordPress
-
-
+    
 ---
 
 ## [📜 Licenses & Certifications](https://arturtelo.github.io)
 
 1. **Complete Course in Cyber Security (Information Security)** (Udemy, Jan 2025)  
-   - _Skills_: Cyber Security  
+   - _Skills_: Network Security, Information Security, Cybersecurity  
 
-2. **The Complete Prolog Programming Course: From Zero to Expert!** (Udemy, Jan 2025)  
+2. **The Complete Haskell Course: From Zero to Expert!** (Udemy, Jan 2025)  
+   - _Skills_: Haskell  
+
+3. **The Complete Prolog Programming Course: From Zero to Expert!** (Udemy, Jan 2025)  
    - _Skills_: Prolog  
 
-3. **Build Responsive Real-World Websites with HTML and CSS** (Udemy, Jun 2023)  
+4. **Build Responsive Real-World Websites with HTML and CSS** (Udemy, Jun 2023)  
    - _Skills_: Cascading Style Sheets (CSS), HTML  
 
-4. **SQLite - Database** (Noble Work Foundation, Dec 2022)  
+5. **SQLite - Database** (Noble Work Foundation, Dec 2022)  
    - _Skills_: Databases, SQLite  
 
-5. **The Mac Terminal** (Udemy, Oct 2022)  
+6. **The Mac Terminal** (Udemy, Oct 2022)  
    - _Skills_: Mac Terminal  
 
-6. **Data Protection/Proteção de Dados** (Joaquim Chaves Saúde, Aug 2019)  
+7. **Data Protection/Proteção de Dados** (Joaquim Chaves Saúde, Aug 2019)  
 
-7. **FCE (Cambridge First Certificate in English)** (Cambridge University Press Careers, Jun 2014)
+8. **FCE (Cambridge First Certificate in English)** (Cambridge University Press Careers, Jun 2014)
 
 ---
 
