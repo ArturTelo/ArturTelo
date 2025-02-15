@@ -3,7 +3,7 @@
     Hi, I'm Artur Telo
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
   </h2>
-  <img src="https://komarev.com/ghpvc/?username=ArturTelo&color=32ddaa&style=for-the-badge" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=ArturTelo&color=blue&style=for-the-badge" alt="profile views">
   <h3><a href="https://arturtelo.github.io/assets/cv.html">Online Resume</a></h3>
 </div>
 
