@@ -22,18 +22,21 @@
 ### **Float Group**
 
 - **Full Stack Developer (Full-time)**  
-  - **Duration**: Sep 2024 – Present (6 months)  
-  - **Skills**: Full-Stack Development, Web Technologies, Flutter, Laravel
+  📅 *Sep 2024 – Present (8 months)*  
+  🛠️ *Skills*: Laravel, Flutter, Full-Stack Development, Web Technologies
 
-- **Gestão de Equipa de DEV (Full-time)**  
-  - **Duration**: Nov 2024 – Present (4 months)  
-  - **Description**: Managing a development team using project management tools like ClickUp
+- **Dev Team Management (Full-time)**  
+  📅 *Nov 2024 – Mar 2025 (5 months)*  
+  📍 *Porto, Portugal*  
+  🛠️ *Tools*: ClickUp  
+  🔹 Managing and coordinating the development team using agile methodologies and project management tools.
 
 - **Frontend Development Intern (Internship)**  
-  - **Duration**: Jul 2024 – Aug 2024 (2 months)  
-  - **Location**: Lisbon, Portugal  
-  - **Description**: Internship focused on frontend development with WordPress and Laravel  
-  - **Skills**: Laravel, WordPress
+  📅 *Jul 2024 – Aug 2024 (2 months)*  
+  📍 *Lisbon, Portugal*  
+  🔹 Internship focused on frontend development with an emphasis on WordPress and Laravel.  
+  🛠️ *Skills*: Laravel, WordPress, Frontend Development
+
     
 ---
 
