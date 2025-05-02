@@ -19,25 +19,25 @@
 
 ## [🌟 Experience](https://arturtelo.github.io)
 
-### **Float Group**
+### *Float Group*
 
-- **Full Stack Developer (Full-time)**  
-  📅 *Sep 2024 – Present (8 months)*  
-  🛠️ *Skills*: Laravel, Flutter, Full-Stack Development, Web Technologies
+#### 🧑‍💻 Full Stack Developer (Full-time)  
+📅 Sep 2024 – Present (9 months)  
+🌍 Remote  
+💻 **Technologies**: Laravel, Flutter, and other web technologies  
 
-- **Dev Team Management (Full-time)**  
-  📅 *Nov 2024 – Mar 2025 (5 months)*  
-  📍 *Porto, Portugal*  
-  🛠️ *Tools*: ClickUp  
-  🔹 Managing and coordinating the development team using agile methodologies and project management tools.
+#### 👥 Dev Team Management (Full-time)  
+📅 Nov 2024 – Mar 2025 (5 months)  
+📍 Porto, Portugal  
+🧩 Leading and coordinating the development team using agile methodologies and tools like ClickUp  
 
-- **Frontend Development Intern (Internship)**  
-  📅 *Jul 2024 – Aug 2024 (2 months)*  
-  📍 *Lisbon, Portugal*  
-  🔹 Internship focused on frontend development with an emphasis on WordPress and Laravel.  
-  🛠️ *Skills*: Laravel, WordPress, Frontend Development
+#### 🎓 Frontend Development Intern (Internship)  
+📅 Jul 2024 – Aug 2024 (2 months)  
+📍 Lisbon, Portugal  
+📝 Curriculum internship focused on frontend development with emphasis on WordPress and Laravel  
+💻 **Technologies**: Laravel, WordPress, Frontend Development
 
-    
+
 ---
 
 ## [📜 Licenses & Certifications](https://arturtelo.github.io)
