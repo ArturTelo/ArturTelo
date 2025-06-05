@@ -21,7 +21,7 @@
 
 ### *Float Group*
 
-#### 🧑‍💻 Full Stack Developer (Full-time)  
+#### 🧑‍💻 Junior Full Stack Engineer (Full-time)  
 📅 Sep 2024 – Present (9 months)  
 🌍 Remote  
 💻 **Technologies**: Laravel, Flutter, and other web technologies  
