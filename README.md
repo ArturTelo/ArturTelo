@@ -28,7 +28,7 @@
 
 #### 👥 Dev Team Management (Full-time)  
 📅 Nov 2024 – Mar 2025 (5 months)  
-🌍 Remote
+🌍 Remote  
 🧩 Leading and coordinating the development team using agile methodologies and tools like ClickUp  
 
 #### 🎓 Frontend Development Intern (Internship)  
