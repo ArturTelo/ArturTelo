@@ -28,12 +28,12 @@
 
 #### 👥 Dev Team Management (Full-time)  
 📅 Nov 2024 – Mar 2025 (5 months)  
-📍 Porto, Portugal  
+🌍 Remote
 🧩 Leading and coordinating the development team using agile methodologies and tools like ClickUp  
 
 #### 🎓 Frontend Development Intern (Internship)  
 📅 Jul 2024 – Aug 2024 (2 months)  
-📍 Lisbon, Portugal  
+📍 Lisbon, Portugal 
 📝 Curriculum internship focused on frontend development with emphasis on WordPress and Laravel  
 💻 **Technologies**: Laravel, WordPress, Frontend Development
 
