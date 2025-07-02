@@ -22,7 +22,7 @@
 ### *Float Group*
 
 #### 🧑‍💻 Junior Full Stack Engineer (Full-time)  
-📅 Sep 2024 – Present (9 months)  
+📅 Sep 2024 – Present (10 months)  
 🌍 Remote  
 💻 **Technologies**: Laravel, Flutter, and other web technologies  
 
@@ -36,7 +36,6 @@
 📍 Lisbon, Portugal  
 📝 Curriculum internship focused on frontend development with emphasis on WordPress and Laravel  
 💻 **Technologies**: Laravel, WordPress, Frontend Development
-
 
 ---
 
