@@ -7,8 +7,6 @@
   <h3><a href="https://arturtelo.github.io/assets/cv.html">Online Resume</a></h3>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Welcome GIF" align="right" width="350"/>
-
 ## [🚀 About Me](https://arturtelo.github.io)
 
 - 🔭 I’m currently working at **Float Health** as a Full Stack Developer  
