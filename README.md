@@ -17,23 +17,41 @@
 
 ## [🌟 Experience](https://arturtelo.github.io)
 
-### *Float Group*
+## Float Group
 
-#### 🧑‍💻 Junior Full Stack Engineer (Full-time)  
-📅 Sep 2024 – Present (10 months)  
-🌍 Remote  
-💻 **Technologies**: Laravel, Flutter, and other web technologies  
+### Junior Full Stack Engineer (Full-time)
 
-#### 👥 Dev Team Management (Full-time)  
-📅 Nov 2024 – Mar 2025 (5 months)  
-🌍 Remote  
-🧩 Leading and coordinating the development team using agile methodologies and tools like ClickUp  
+**Sep 2024 – Present** · Porto, Portugal · Remote
 
-#### 🎓 Frontend Development Intern (Internship)  
-📅 Jul 2024 – Aug 2024 (2 months)  
-📍 Lisbon, Portugal 
-📝 Curriculum internship focused on frontend development with emphasis on WordPress and Laravel  
-💻 **Technologies**: Laravel, WordPress, Frontend Development
+* Working as a full-stack engineer contributing to web and mobile solutions
+* Developing and maintaining features using Laravel and Flutter
+* Collaborating with cross-functional teams to deliver scalable and maintainable applications
+
+**Technologies:** Laravel, Flutter, Web Technologies
+
+---
+
+### Dev Team Management (Full-time)
+
+**Nov 2024 – Mar 2025** · Porto, Portugal · Remote
+
+* Coordinated and supported the development team throughout the project lifecycle
+* Managed task planning, prioritization, and delivery using ClickUp
+* Ensured alignment between technical execution and project requirements
+
+**Tools:** ClickUp
+
+---
+
+### Frontend Development Intern (Internship)
+
+**Jul 2024 – Aug 2024** · Lisbon, Portugal · Remote
+
+* Curriculum internship focused on frontend development
+* Built and maintained interfaces with an emphasis on WordPress and Laravel
+* Supported the implementation of responsive and user-focused UI components
+
+**Technologies:** Laravel, WordPress, Frontend Development
 
 ---
 
