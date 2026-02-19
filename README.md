@@ -9,7 +9,7 @@
 
 ## [🚀 About Me](https://arturtelo.github.io)
 
-- 🔭 I’m currently working at **Float Health** as a Full Stack Developer  
+- 🔭 I’m currently working at **Float Health** as a Junior Full Stack Engineer
 - 💻 I developed a **backend website (Laravel)** for a **Flutter app**  
 - 🌱 I’m learning **new web and mobile technologies**  
 
