@@ -55,36 +55,4 @@
 
 ---
 
-## [📜 Licenses & Certifications](https://arturtelo.github.io)
-
-1. **Complete Course in Cyber Security (Information Security)** (Udemy, Jan 2025)  
-   - _Skills_: Network Security, Information Security, Cybersecurity  
-
-2. **The Complete Haskell Course: From Zero to Expert!** (Udemy, Jan 2025)  
-   - _Skills_: Haskell  
-
-3. **The Complete Prolog Programming Course: From Zero to Expert!** (Udemy, Jan 2025)  
-   - _Skills_: Prolog  
-
-4. **Build Responsive Real-World Websites with HTML and CSS** (Udemy, Jun 2023)  
-   - _Skills_: Cascading Style Sheets (CSS), HTML  
-
-5. **SQLite - Database** (Noble Work Foundation, Dec 2022)  
-   - _Skills_: Databases, SQLite  
-
-6. **The Mac Terminal** (Udemy, Oct 2022)  
-   - _Skills_: Mac Terminal  
-
-7. **Data Protection/Proteção de Dados** (Joaquim Chaves Saúde, Aug 2019)  
-
-8. **FCE (Cambridge First Certificate in English)** (Cambridge University Press Careers, Jun 2014)
-
----
-
-## [🏆 Achievements](https://arturtelo.github.io)
-
-- 🥇 Certifications in multiple fields, including web development, databases, and data protection  
-- 🚀 Developed backend solutions for **Float Health**  
-- 🌟 Background in both technology and healthcare
-
 <h3 align = "center" ><a href="mailto:up2021044878@up.pt">Contact me!</a></h3>
