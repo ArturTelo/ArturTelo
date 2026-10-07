@@ -1,58 +1,73 @@
 <div align="center">
-  <h2 align="center">
-    Hi, I'm Artur Telo
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
-  </h2>
-  <img src="https://komarev.com/ghpvc/?username=ArturTelo&color=5D777B&style=for-the-badge" alt="profile views">
-  <h3><a href="https://arturtelo.github.io/assets/cv.html">Online Resume</a></h3>
+
+# Artur Telo
+
+### Full Stack Engineer · Web & Mobile
+
+I build polished digital products from interface to backend,  
+with a focus on clean design, maintainable code and real-world usability.
+
+<br>
+
+<a href="https://arturtelo.com">
+  <img src="https://img.shields.io/badge/Portfolio-arturtelo.com-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/arturtelo/">
+  <img src="https://img.shields.io/badge/LinkedIn-Artur_Telo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ArturTelo&color=5D777B&style=flat-square&label=Profile+Views" alt="Profile views">
+
 </div>
 
-## [🚀 About Me](https://arturtelo.github.io)
+---
 
-- 🔭 I’m currently working at **Float Health** as a Junior Full Stack Engineer
-- 💻 I developed a **backend website (Laravel)** for a **Flutter app**  
-- 🌱 I’m learning **new web and mobile technologies**  
+## About
+
+I'm a **Full Stack Engineer at Float Health**, working across web and mobile products.
+
+My work combines **development, product thinking and interface design** — from backend architecture and APIs to responsive interfaces and mobile applications.
+
+Currently working mainly with **Laravel, Vue, Flutter and modern web technologies**.
 
 ---
 
-## [🌟 Experience](https://arturtelo.github.io)
+## Tech
 
-## Float Group
-
-### Junior Full Stack Engineer (Full-time)
-
-**Sep 2024 – Present** · Porto, Portugal · Remote
-
-* Working as a full-stack engineer contributing to web and mobile solutions
-* Developing and maintaining features using Laravel and Flutter
-* Collaborating with cross-functional teams to deliver scalable and maintainable applications
-
-**Technologies:** Laravel, Flutter, Web Technologies
-
----
-
-### Dev Team Management (Full-time)
-
-**Nov 2024 – Mar 2025** · Porto, Portugal · Remote
-
-* Coordinated and supported the development team throughout the project lifecycle
-* Managed task planning, prioritization, and delivery using ClickUp
-* Ensured alignment between technical execution and project requirements
-
-**Tools:** ClickUp
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
 ---
 
-### Frontend Development Intern (Internship)
+## What I'm focused on
 
-**Jul 2024 – Aug 2024** · Lisbon, Portugal · Remote
-
-* Curriculum internship focused on frontend development
-* Built and maintained interfaces with an emphasis on WordPress and Laravel
-* Supported the implementation of responsive and user-focused UI components
-
-**Technologies:** Laravel, WordPress, Frontend Development
+- Building complete **web and mobile products**
+- Creating highly polished and responsive interfaces
+- Designing maintainable Laravel applications and APIs
+- Improving my workflow through reusable systems, tooling and automation
 
 ---
 
-<h3 align = "center" ><a href="mailto:up2021044878@up.pt">Contact me!</a></h3>
+<div align="center">
+
+### Want to see what I actually build?
+
+## [→ Explore my portfolio](https://arturtelo.com)
+
+Projects, case studies, experience and more.
+
+<br>
+
+<sub>Made with code, curiosity and probably too much attention to small UI details.</sub>
+
+</div>
